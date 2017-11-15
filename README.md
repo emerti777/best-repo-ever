@@ -4,3 +4,4 @@ Another line added
 New change for new-branch-1
 New change for new-branch-2
 New change for new-branch-3
+New change for new-branch-4
